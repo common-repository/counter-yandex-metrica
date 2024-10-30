@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yandex.Metrika Counter by Semikashev\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-16 08:57+0000\n"
+"PO-Revision-Date: 2018-12-16 11:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: class.ymc-admin.php:36
+msgid "Yandex Metrica"
+msgstr "Яндекс.Метрика"
+
+#: class.ymc-admin.php:53 class.ymc-admin.php:57
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно прав для доступа к этой странице."
+
+#: class.ymc-admin.php:80
+msgid "Options saved!"
+msgstr "Настройки сохранены!"
+
+#: class.ymc-admin.php:83
+msgid "Please enter a valid counter code!"
+msgstr "Введите корректный номер счётчика!"
+
+#: class.ymc-admin.php:94
+msgid "All options cleared!"
+msgstr "Настройки сброшены!"
+
+#: class.ymc-widget.php:20
+msgid "Informer Yandex.Metric"
+msgstr "Информер Яндекс.Метрика"
+
+#: class.ymc-widget.php:21
+msgid ""
+"Allows you to view widget of Yandex metrics in the sidebar and other places."
+msgstr "Позволяет вывести информер Яндекс метрики в сайдбаре и других местах."
+
+#: class.ymc-widget.php:43
+msgid "Yandex.Metrica"
+msgstr "Яндекс.Метрика"
+
+#: class.ymc-widget.php:43
+msgid "Yandex.Metrica: data for today (page views, visits and unique users)"
+msgstr ""
+"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)"
+
+#: class.ymc-widget.php:76
+msgid ""
+"Attention! In order for the widget to be displayed correctly, you must "
+"enable it in the counter setting on the Yandex page."
+msgstr ""
+"Внимание! Для того, чтобы информер отображался корректно, вы должны его "
+"включить в настройка счётчика на странице Яндекс метрики."
+
+#: class.ymc-widget.php:86
+msgid "Page views"
+msgstr "Просмотры"
+
+#: class.ymc-widget.php:87
+msgid "Visits"
+msgstr "Визиты"
+
+#: class.ymc-widget.php:88
+msgid "Users"
+msgstr "Посетители"
+
+#: class.ymc-widget.php:91
+msgid "Informer color"
+msgstr "Цвет информера"
+
+#: class.ymc-widget.php:95
+msgid "Gradient"
+msgstr "Градиент"
+
+#: class.ymc-widget.php:99
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: class.ymc-widget.php:100
+msgid "Black"
+msgstr "Чёрный"
+
+#: class.ymc-widget.php:101
+msgid "White"
+msgstr "Белый"
+
+#: class.ymc-widget.php:104
+msgid "Arrow color"
+msgstr "Цвет стрелки"
+
+#: class.ymc-widget.php:109
+msgid "Informer type"
+msgstr "Тип информера"
+
+#: class.ymc-widget.php:110
+msgid "Simple"
+msgstr "Простой"
+
+#: class.ymc-widget.php:111
+msgid "Advanced"
+msgstr "Расширенный"
+
+#: class.ymc-widget.php:116
+msgid "Preview informer"
+msgstr "Предпросмотр информера"
+
+#: _tpl/config.php:4
+msgid "Yandex.Metrika"
+msgstr "Яндекс.Метрика"
+
+#: _tpl/config.php:7
+msgid "Author on coffee:"
+msgstr "Автору на кофе:"
+
+#: _tpl/config.php:8
+msgid "Ya.Money"
+msgstr "Я.Деньги"
+
+#: _tpl/config.php:9
+msgid "PayPal"
+msgstr "PayPal"
+
+#: _tpl/config.php:20
+msgid "Enter the number of the counter"
+msgstr "Введите номер счётчика"
+
+#: _tpl/config.php:28
+msgid "Obsolete code snippet"
+msgstr "Устаревший код счётчика"
+
+#: _tpl/config.php:32 _tpl/config.php:113
+msgid "Yes"
+msgstr "Да"
+
+#: _tpl/config.php:37
+msgid "Asynchronous code"
+msgstr "Асинхронный код"
+
+#: _tpl/config.php:37 _tpl/config.php:50 _tpl/config.php:54 _tpl/config.php:63
+msgid "recommends"
+msgstr "рекомендовано"
+
+#: _tpl/config.php:38
+msgid ""
+"Asynchronous code does not block or influence the loading speed of your site."
+msgstr ""
+"Асинхронный код не блокирует и не влияет на скорость загрузки страницы "
+"вашего сайта."
+
+#: _tpl/config.php:45
+msgid "Additional settings"
+msgstr "Дополнительные настройки"
+
+#: _tpl/config.php:50
+msgid "Gathering statistics for the click map report"
+msgstr "Сбор статистики для работы отчета Карта кликов"
+
+#: _tpl/config.php:54
+msgid "Tracking of external links"
+msgstr "Отслеживания переходов по внешним ссылкам"
+
+#: _tpl/config.php:58
+msgid "Hash tracking in the browser address bar"
+msgstr "Отслеживание хеша в адресной строке браузера"
+
+#: _tpl/config.php:59
+msgid "Option applied to AJAX sites."
+msgstr "Опция применима для AJAX-сайтов."
+
+#: _tpl/config.php:63
+msgid "Session Replay"
+msgstr "Вебвизор"
+
+#: _tpl/config.php:67
+msgid "Stop automatic page indexing"
+msgstr "Запрет отправки на индексацию страниц сайта"
+
+#: _tpl/config.php:68
+msgid ""
+"Stop automatic Yandex.Search page indexing for sites with Yandex.Metrica tags"
+msgstr ""
+"Включите эту опцию, чтобы страницы сайта не отправлялись на индексацию "
+"Яндексу"
+
+#: _tpl/config.php:74
+msgid "Alternative CDN"
+msgstr "Альтернативный CDN"
+
+#: _tpl/config.php:75
+msgid ""
+"Allows you to correctly register sessions from regions in which access to "
+"Yandex resources is restricted. Using this option may affect the loading "
+"speed of the code snippet."
+msgstr ""
+"Позволяет корректно учитывать посещения из регионов, в которых ограничен "
+"доступ к ресурсам Яндекса. Использование этой опции может снизить скорость "
+"загрузки кода счётчика."
+
+#: _tpl/config.php:79
+msgid "not use"
+msgstr "не использовать"
+
+#: _tpl/config.php:83
+msgid "use standard"
+msgstr "использовать стандартный"
+
+#: _tpl/config.php:87
+msgid "enter another"
+msgstr "ввести другой"
+
+#: _tpl/config.php:95
+msgid "Ways to install the code snippet"
+msgstr "Способы установки кода счетчика"
+
+#: _tpl/config.php:98
+msgid "Plugin output area:"
+msgstr "Область вывода счётчика:"
+
+#: _tpl/config.php:110
+msgid "Track logged in users:"
+msgstr "Отслеживание авторизованных пользователей:"
+
+#: _tpl/config.php:117
+msgid "No"
+msgstr "Нет"
+
+#: _tpl/config.php:126
+msgid "User roles to not track:"
+msgstr "Не отслеживаемые роли пользователей:"
+
+#: _tpl/config.php:143
+msgid "Save"
+msgstr "Сохранить"
+
+#: _tpl/config.php:144
+msgid "Reset"
+msgstr "Сбросить"
+
+#. Name of the plugin
+msgid "Yandex.Metrica Counter"
+msgstr "Яндекс.Метрика (счётчик)"
+
+#. Description of the plugin
+msgid "Easy installation of counter Yandex.Metrica. Support Webvisor 2.0."
+msgstr "Легкая установка счётчика Яндекс.Метрика. Поддержка Вебвизор 2.0."
+
+#. URI of the plugin
+msgid "http://semikashev.com/wordpress/plugin-yametrika-counter"
+msgstr "http://semikashev.com/wordpress/plugin-yametrika-counter"
+
+#. Author of the plugin
+msgid "Alexander Semikashev"
+msgstr "Alexander Semikashev"
+
+#. Author URI of the plugin
+msgid "http://semikashev.com"
+msgstr "http://semikashev.com"
+
+#~ msgid "Session Replay, scroll map, form analysis"
+#~ msgstr "Вебвизор, карта скроллинга, аналитика форм"
+
+#~ msgid "easy installation of the counter by"
+#~ msgstr "простая установка счётчика от"
+
+#~ msgid "Yandex.Metrica Counter by Semikashev"
+#~ msgstr "Яндекс.Метрика счётчик от Semikashev"
